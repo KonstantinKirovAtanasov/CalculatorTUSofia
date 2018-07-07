@@ -1,0 +1,15 @@
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\bin\Debug\CalculatorFirst.exe.config
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\bin\Debug\CalculatorFirst.exe
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\bin\Debug\CalculatorFirst.pdb
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst.csprojResolveAssemblyReference.cache
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\Calculator.g.cs
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\App.g.cs
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst_MarkupCompile.cache
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst_MarkupCompile.lref
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\Calculator.baml
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst.g.resources
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst.Properties.Resources.resources
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst.csproj.GenerateResource.Cache
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst.csproj.CoreCompileInputs.cache
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst.exe
+C:\Users\v\source\repos\CalculatorFirst\CalculatorFirst\obj\Debug\CalculatorFirst.pdb
